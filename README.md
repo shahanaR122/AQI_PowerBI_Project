@@ -11,7 +11,6 @@ This project analyzes Air Quality Index (AQI) trends using Power BI.
 * Pollution trend visualization
 * KPI cards
 * Interactive filters
-* Map visualization
 
 ## Tools Used
 
